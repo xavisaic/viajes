@@ -1,0 +1,46 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* height: 100vh; */
+}
+
+.slider img{
+    height: 11rem;
+    margin-top: 1cm;
+}
+.slider{
+    padding: 5rem;
+}
+
+.slider > .card{
+    
+}
+
+.cards-1>.card{
+    
+}
+
+.slider > .card{
+    background-color: aqua;
+}
+
+.card-img{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.back-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+.navbar{
+    background-color: rgb(55, 167, 167) !important;
+}
