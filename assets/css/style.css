@@ -15,20 +15,7 @@
     height: 11rem;
     margin-top: 1cm;
 }
-.slider{
-    
-    /* display: flex !important;
-    justify-content: space-between !important; */
 
-}
-
-.slider > .card{
-
-}
-
-.cards-1>.card{
-    
-}
 
 .slider > .card{
     background-color: aqua;
@@ -53,9 +40,6 @@
     background-color: rgb(55, 167, 167) !important;
 }
 
-.contact{
-    
-}
 
 .form-label{
     color: white;
